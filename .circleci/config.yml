@@ -23,9 +23,9 @@ jobs:
     steps:
       - checkout
       - run: echo "Angga's build"
-  workflows:
-    version: 2
-    angga_work:
-      jobs:
-        - build
-        - build_angga
+workflows:
+  version: 2
+  angga_work:
+    jobs:
+      - build
+      - build_angga
