@@ -22,7 +22,7 @@ jobs:
       - image: circleci/ruby:2.4.1
     steps:
       - checkout
-        - run: echo "Angga's build"
+      - run: echo "Angga's build"
   workflows:
     version: 2
     angga_work:
