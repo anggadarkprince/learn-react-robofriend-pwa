@@ -1,7 +1,16 @@
 {
-  "main.css": "static/css/main.ce31912c.css",
-  "main.css.map": "static/css/main.ce31912c.css.map",
-  "main.js": "static/js/main.6bfbe8a2.js",
-  "main.js.map": "static/js/main.6bfbe8a2.js.map",
-  "static/media/SEGA.woff": "static/media/SEGA.12a3db8b.woff"
+  "main.css": "/learn-react-robofriend-pwa/static/css/main.7fa268d8.chunk.css",
+  "main.js": "/learn-react-robofriend-pwa/static/js/main.d9e85ced.chunk.js",
+  "main.js.map": "/learn-react-robofriend-pwa/static/js/main.d9e85ced.chunk.js.map",
+  "static/css/1.24a7c7fc.chunk.css": "/learn-react-robofriend-pwa/static/css/1.24a7c7fc.chunk.css",
+  "static/js/1.dc9601e3.chunk.js": "/learn-react-robofriend-pwa/static/js/1.dc9601e3.chunk.js",
+  "static/js/1.dc9601e3.chunk.js.map": "/learn-react-robofriend-pwa/static/js/1.dc9601e3.chunk.js.map",
+  "runtime~main.js": "/learn-react-robofriend-pwa/static/js/runtime~main.97fb5191.js",
+  "runtime~main.js.map": "/learn-react-robofriend-pwa/static/js/runtime~main.97fb5191.js.map",
+  "static/css/1.24a7c7fc.chunk.css.map": "/learn-react-robofriend-pwa/static/css/1.24a7c7fc.chunk.css.map",
+  "static/media/App.css": "/learn-react-robofriend-pwa/static/media/SEGA.12a3db8b.woff",
+  "static/css/main.7fa268d8.chunk.css.map": "/learn-react-robofriend-pwa/static/css/main.7fa268d8.chunk.css.map",
+  "index.html": "/learn-react-robofriend-pwa/index.html",
+  "precache-manifest.08c65f5c73e9d04f69dc9e647bea00b8.js": "/learn-react-robofriend-pwa/precache-manifest.08c65f5c73e9d04f69dc9e647bea00b8.js",
+  "service-worker.js": "/learn-react-robofriend-pwa/service-worker.js"
 }
