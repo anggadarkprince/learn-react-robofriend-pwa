@@ -17,3 +17,15 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: npm test
+  build_angga:
+    docker:
+      - image: circleci/ruby:2.4.1
+    steps:
+      - checkout
+        - run: echo "Angga's build"
+  workflows:
+    version: 2
+    angga_work:
+      jobs:
+        - build
+        - build_angga
